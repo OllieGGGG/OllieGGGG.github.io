@@ -1,12 +1,10 @@
 # ~/notes
-A simple log of RF, DSP, and Embedded experiments.
+Projects, notes, and thoughts about stuff I'm interested in.
 
 ---
 
 ### Recent Posts
 
-* **2026-02-12** — [ESP32 RF IQ Sampling](./posts/esp32-rf.md)
-* **2026-02-10** — [CMSIS-DSP FIR Filters](./posts/stm32-dsp.md)
-* **2026-01-15** — [Vivado + AD9361 Setup](./posts/fpga-setup.md)
+* **2026-02-02** — [Zynq-7000](./posts/zynq-7000/zynq-7000-notes.md)
 
 ---
